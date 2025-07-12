@@ -81,28 +81,28 @@
     <td align="center" width="250">
       <img src="https://img.icons8.com/color/96/privacy.png" width="60" /><br/>
       <strong>Auth + Security</strong><br/>
-      <a href="https://github.com/Krishna-Vineet/auth-flows"><code>/auth-flows</code></a><br/>
+      <a href="https://github.com/Krishna-Vineet/Krishna-Vineet/blob/main/auth-flows/README.md"><code>/auth-flows</code></a><br/>
       <sub>JWT, OTP, refresh tokens, sessions, best practices</sub>
     </td>
     <td align="center" width="250">
       <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="60" /><br/>
       <strong>AI Integration</strong><br/>
-      <a href="https://github.com/Krishna-Vineet/ai-workspace"><code>/ai-workspace</code></a><br/>
+      <a href="https://github.com/Krishna-Vineet/Krishna-Vineet/blob/main/ai-workspace/README.md"><code>/ai-workspace</code></a><br/>
       <sub>Gemini, LangChain, Python bridges, use cases</sub>
     </td>
     <td align="center" width="250">
       <img src="https://img.icons8.com/color/96/animation.png" width="60" /><br/>
       <strong>UI + Animations</strong><br/>
-      <a href="https://github.com/Krishna-Vineet/ui-lab"><code>/ui-lab</code></a><br/>
+      <a href="https://github.com/Krishna-Vineet/Krishna-Vineet/blob/main/ui-lab/README.md"><code>/ui-lab</code></a><br/>
       <sub>Framer Motion, GSAP, transitions, layout tricks</sub>
     </td>
     <td align="center" width="250">
       <img src="https://img.icons8.com/color/96/server.png" width="60" /><br/>
       <strong>Backend Practices</strong><br/>
-      <a href="https://github.com/Krishna-Vineet/backend-practices"><code>/backend-practices</code></a><br/>
+      <a href="https://github.com/Krishna-Vineet/Krishna-Vineet/blob/main/backend-practices/README.md"><code>/backend-practices</code></a><br/>
       <sub>Clean architecture, middleware, patterns, scalability</sub>
     </td>
-  
+
   </tr>
 </table>
 
