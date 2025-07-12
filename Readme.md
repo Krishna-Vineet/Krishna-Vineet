@@ -16,11 +16,11 @@
 <h1 align="center">🔍Quick Glance</h1>
 
 <div align="center">
-  <b>Fullstack</b> Web Engineer & Problem Solver  
-  Passionate about <b>AI-driven</b> Products  
-  <b>UI-focused</b> Developer with Practical Design Thinking  
-  Experienced in <b>Backend</b> Systems & Architecture  
-  Building Realtime, API-Centric, Scalable Apps
+  <b>Fullstack</b> Web Engineer & Problem Solver  <br/>
+  Passionate about <b>AI-driven</b> Products  <br/>
+  <b>UI-focused</b> Developer with Practical Design Thinking  <br/>
+  Experienced in <b>Backend</b> Systems & Architecture  <br/>
+  Building Realtime, API-Centric, Scalable Apps<br/>
 </div>
 <br/>
 
