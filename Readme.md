@@ -96,6 +96,13 @@
       <a href="https://github.com/Krishna-Vineet/ui-lab"><code>/ui-lab</code></a><br/>
       <sub>Framer Motion, GSAP, transitions, layout tricks</sub>
     </td>
+    <td align="center" width="250">
+      <img src="https://img.icons8.com/color/96/server.png" width="60" /><br/>
+      <strong>Backend Practices</strong><br/>
+      <a href="https://github.com/Krishna-Vineet/backend-practices"><code>/backend-practices</code></a><br/>
+      <sub>Clean architecture, middleware, patterns, scalability</sub>
+    </td>
+  
   </tr>
 </table>
 
@@ -157,7 +164,7 @@
     </td>
     <td align="center">
       <img src="https://img.icons8.com/?size=100&id=pN6OEEOQEsTo&format=png" width="80" /><br/>
-      <strong>Backend</strong><br/>
+      <strong fontcolor=white>Backend</strong><br/>
       <em>GDSC Program</em>
     </td>
   </tr>
