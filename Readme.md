@@ -63,10 +63,10 @@
 
 <h1 align="center">🌟 Featured Projects (Live + Code)</h1>
 <p align="center">
-  <a href="https://github.com/Krishna-Vineet/WeGo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Vineet&repo=WeGo&theme=radical" /></a>
-  <a href="https://github.com/Krishna-Vineet/Amparo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Vineet&repo=Amparo&theme=radical" /></a>
-  <a href="https://github.com/Krishna-Vineet/Blogit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Vineet&repo=Blogit&theme=radical" /></a>
-  <a href="https://github.com/Krishna-Vineet/Krishi_Sahayak"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Vineet&repo=Krishi_Sahayak&theme=radical" /></a>
+  <a href="https://github.com/Krishna-Vineet/WeGo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Vineet&repo=WeGo&theme=dark" /></a>
+  <a href="https://github.com/Krishna-Vineet/Amparo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Vineet&repo=Amparo&theme=dark" /></a>
+  <a href="https://github.com/Krishna-Vineet/Blogit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Vineet&repo=Blogit&theme=dark" /></a>
+  <a href="https://github.com/Krishna-Vineet/Krishi_Sahayak"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna-Vineet&repo=Krishi_Sahayak&theme=dark" /></a>
 </p>
 <br/>
 <br/>
@@ -179,9 +179,9 @@
 <h1 align="center">🔥GitHub Stats</h1>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna-Vineet&theme=highcontrast&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna-Vineet&theme=dark&date_format=j%20M%5B%20Y%5D" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-Vineet&layout=compact&theme=highcontrast" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-Vineet&layout=compact&theme=dark" />
 
 </div>
 
