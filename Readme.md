@@ -25,7 +25,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://portfolio-krishnavineets-projects.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View-dark?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://vineetkumarsahu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View-dark?style=for-the-badge&logo=vercel" /></a>
   <a href="https://linkedin.com/in/vineet-kumar-sahu"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:itsvineetsahu@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" /></a>
 </p>
